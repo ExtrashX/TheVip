@@ -3,7 +3,7 @@ TheVip X Bs || DDoS Tools For Samp || Code by BlackShadow ( Bimzzx )
 
 ## How To Use?? :
 
-> -buka google cloud anda
+> -buka terminal yang anda gunakan
 
 
 > -ketikkan "git clone https://github.com/Lynzzx999/TheVip"
