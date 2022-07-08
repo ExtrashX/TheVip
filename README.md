@@ -16,3 +16,6 @@ TheVip X Bs || DDoS Tools For Samp || Code by BlackShadow ( Bimzzx )
 
 
 > -lalu ketikkan "python3 TheVip.py"
+
+
+> -masukkan ip, port, sesuai panduan lalu untuk paket dan threads isi terserah kalian, saran saya keduanya menggunakan 10000
